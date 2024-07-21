@@ -31,10 +31,4 @@ This command will show the modified status of an existing file and the file addi
 Usage: git push origin [branch name]
 Suppose, we have made some changes in the file and want to push the changes to our remote repository on a particular branch. By using the command git push, the local repository's files can be synced with the remote repository on Github.
 
-6. git clone
-
-Usage: git clone [URL]
-Suppose, we want to work on a file that is on a remote Github repository as another developer. We can work on this file by clicking on Clone or Download and copying the link and pasting it on the terminal with the git clone command. This will import the files of a project from the remote repository to our local system.
-
-
 
